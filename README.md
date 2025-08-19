@@ -12,7 +12,7 @@
 
 - ☁️ I’m currently learning **AWS and DevOps Services**
 
-- 📫 How to reach me **linkdin.com/souravsviswajith**
+- 📫 How to reach me [linkedin.com/souravsviswajith](https://www.linkedin.com/in/souravsviswajith/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
