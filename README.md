@@ -1,3 +1,4 @@
+![Demo](gif.gif)
 
 preview
 <h1 align="center">Hi 👋, I'm Sourav</h1>
