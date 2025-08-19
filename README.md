@@ -5,7 +5,7 @@
 
 preview
 <h1 align="center">Hi 👋, I'm Sourav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate cloud and DevOps Enthusiast from India</h3>
 
 - ☁️ I’m currently learning **AWS and DevOps Services**
 
