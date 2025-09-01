@@ -33,5 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souravsviswajith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 ###
 Support 🙏
