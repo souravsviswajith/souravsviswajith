@@ -8,9 +8,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Sourav</h1>
-<h3 align="center">A passionate cloud and DevOps Enthusiast from India</h3>
+<h3 align="center">A passionate Cloud and DevOps Enthusiast from India</h3>
 
-- ☁️ I’m currently learning **AWS and DevOps Services**
+- ☁️ I’m currently learning and working on **AWS and DevOps Services**
 
 - 📫 How to reach me [linkedin.com/souravsviswajith](https://www.linkedin.com/in/souravsviswajith/)
 
