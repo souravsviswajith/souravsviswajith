@@ -1,55 +1,88 @@
 <p align="center">
   <a href="https://github.com/souravsviswajith?tab=repositories">
-    <img src="gif.gif" alt="Demo" width="400">
+    <img src="gif.gif" alt="Sourav's GitHub Banner Animation" width="400">
   </a>
 </p>
 
-
-
-
 <h1 align="center">Hi 👋, I'm Sourav</h1>
-<h3 align="center">A passionate Cloud and DevOps Enthusiast from India</h3>
+<h3 align="center">☁️ Cloud & DevOps Enthusiast from India 🇮🇳</h3>
 
-- ☁️ I’m currently learning and working on **AWS and DevOps Services**
+---
 
-- 📫 How to reach me [linkedin.com/souravsviswajith](https://www.linkedin.com/in/souravsviswajith/)
+### 🧠 About Me  
+- ☁️ Currently learning and working with **AWS & DevOps tools**  
+- 💻 Passionate about **automation, CI/CD, and cloud-native technologies**  
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/souravsviswajith/)**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/souravsviswajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souravsviswajith" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/souravsviswajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="souravsviswajith" height="30" width="40" /></a>
-<a href="https://kaggle.com/souravsv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="souravsviswajith" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/souravsviswajith/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/your-user-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="40"/>
+  </a>
+  <a href="https://www.kaggle.com/souravsv" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" width="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 🧰 Languages & Tools  
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="40" /></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="40" /></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" /></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" width="40" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" /></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="40" /></a>
+  <a href="https://figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" /></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/snake.svg" alt="Snake animation" />
+---
 
-
-###
-
+### 📊 GitHub Analytics  
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souravsviswajith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souravsviswajith&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=souravsviswajith&show_icons=true&theme=dracula&hide_border=false&rank_icon=github" height="150" alt="GitHub Stats" />
+  
 </div>
 
+---
+
+### 🐍 Contribution Animation  
 ![GitHub Snake Light](https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+### 👾 Pac-Man Contribution Graph  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
 <div align="center">
-  <img height="269" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw3c3lsMXpkZHhwMmVpZXo1YWNwdGVmemxzeHhndnF6eGU0MWE1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
+  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw3c3lsMXpkZHhwMmVpZXo1YWNwdGVmemxzeHhndnF6eGU0MWE1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="DevOps Animation" />
 </div>
 
-###
+---
 
-###
-Support 🙏
+### 💖 Support  
+If you like my work, consider leaving a ⭐ on the repositories — it helps a lot!
+
