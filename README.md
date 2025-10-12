@@ -36,7 +36,6 @@
 </div>
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souravsviswajith/souravsviswajith/output/pacman-contribution-graph.svg">
@@ -45,9 +44,7 @@
 
 ###
 
-<div align="center">
-  <img height="269" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWw3c3lsMXpkZHhwMmVpZXo1YWNwdGVmemxzeHhndnF6eGU0MWE1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif"  />
-</div>
+
 
 ###
 
