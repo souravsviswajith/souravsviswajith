@@ -8,11 +8,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Sourav</h1>
-<h3 align="center">A Cloud and DevOps Enthusiast</h3>
+<h3 align="center">A Cloud and DevOps Engineer</h3>
 
 - ☁️ I’m currently learning and working on **Cloud and DevOps Services**
 
-- 📫 How to reach me [linkedin.com/souravsviswajith](https://www.linkedin.com/in/souravsviswajith/)
+- 📫 How to reach me: [linkedin.com/souravsviswajith](https://www.linkedin.com/in/souravsviswajith/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
